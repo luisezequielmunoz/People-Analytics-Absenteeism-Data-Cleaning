@@ -14,9 +14,9 @@ The data set allows for several new combinations of attributes and attribute exc
 2. Reason for absence (ICD).
 Absences attested by the International Code of Diseases (ICD) stratified into 21 categories (I to XXI) as follows:
 
-    I Certain infectious and parasitic diseases
-    II Neoplasms
-    III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+    - I Certain infectious and parasitic diseases
+    - II Neoplasms
+    - III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
     IV Endocrine, nutritional and metabolic diseases
     V Mental and behavioural disorders
     VI Diseases of the nervous system
