@@ -1,5 +1,8 @@
 # People Analytics Absenteeism - Data cleaning
 
+![Screenshot 2023-02-12 at 19 52 13](https://user-images.githubusercontent.com/66885480/218330930-a41c420f-1e7f-4f58-a387-03fadeea00f2.jpg)
+
+
 ## General info
 
 The goal of this project is to apply certain data cleaning techniques to prepare the dataset, which will be further used by the Data Science team for ML models development. 
